@@ -1,0 +1,27 @@
+
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+    width: 300px;
+    align-items: center;
+    border: 1px solid #070707;
+    border-radius: 4px;
+    margin-bottom: 12px;
+}
+
+.button {
+    padding: 4px 8px;
+}
+.text {
+    padding: 4px 8px;
+}
+.iconPhone {
+    transform: rotate(90deg);
+}
+
+.textBlock {
+    display: flex;
+    align-items: center;
+}
