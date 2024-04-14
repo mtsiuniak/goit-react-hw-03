@@ -22,6 +22,4 @@ export default function Contact({ onDeleteContact, list: {id, name, number }, })
         
         <button className={css.button} onClick={handleDelete}>Delete</button>
     </div>
-        
-   
 }
